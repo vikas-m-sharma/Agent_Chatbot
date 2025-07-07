@@ -1,0 +1,4 @@
+Install Pipenv (if not already installed):
+pip install pipenv
+Activate the Virtual Environment:
+pipenv shell
